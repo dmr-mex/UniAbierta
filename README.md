@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Bienvenido a Universidad Abierta
 
-You can use the [editor on GitHub](https://github.com/dmr-mex/UniAbierta/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este es un proyecto multidisciplinario en que los participantes: académicos, alumnos, etc. contribuyen para:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Crear un sistema de software para mostrar contenidos educativos, cursos, evaluaciones, registro de archivos, y conferencias.
+- Contribuir con contenidos de los distintos temas de estudio: páginas web, audiovisuales, presentaciones para exposición, etc. GRATIS.
+- Cursos con sesiones mixtas de estudio a distancia y presencial, con evaluaciones. Todas las actividades deben economizan al máximo los recursos: tiempo dedicado, dinero y esfuerzo. También economizar: transporte, espacio, etc.
+- Contribuir con recursos en dinero, especie y trabajo voluntario para construir un campus bien equipado en México (Ciudad de México, Estado de México, o algún estado de la república), con: oficinas, servidores internet, aulas, biblioteca digital, gimnasio, áreas verdes y deportivas, de alimentos y habitaciones. 
+- Guías de estudio estructurados con links a temas simples multidisciplinarios.
+- Desarrollar un programa de realidad virtual y una colección de ambientes para aprendizaje.
 
-### Markdown
+### Filosofía
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El proyecto actual se creó esperando encontrar el apoyo de muchas personas entusiastas para ayudar a la educación y ofrecer la oportunidad del estudio a todos. Entre ellos: programadores para crear un sistema web con inteligencia artificial, académicos y creadores de contenidos: presentaciones, audio/video, contribuidores editoriales, evaluadores, estadistas, equipos para crear programas de cursos.
 
-```markdown
-Syntax highlighted code block
+Es necesario crear un sistema que ofrezca a los usuarios oportunidades de desarrollar al máximo sus habilidades en todos los temas de su interés, sin restringirse a costos económicos, espacio o trámites en instituciones. 
 
-# Header 1
-## Header 2
-### Header 3
+También es necesario que las actividades cuiden al medio ambiente y los recursos que se destinan en: transporte, planteles, etc.
 
-- Bulleted
-- List
+Los cursos teóricos se pueden tomar a distancia y dejar que los alumnos desarrollen, con aprendizaje activo ó  técnicas variadas, sus propias habilidades de estudio, enseñanza, investigación y trabajo en equipo antes de asistir a (contemplativas o extenuantes) sesiones de clase o evaluación.
 
-1. Numbered
-2. List
+Las actividades pedagógicas muchas veces dependen de temas multidisciplinarios que se pueden tomar en cursos modulares impartidos por expertos en cada tema para su mejor aprendizaje. Se pueden otorgar diplomas por cada curso o evaluación.
 
-**Bold** and _Italic_ and `Code` text
+Los alumnos pueden tomar los cursos multitud de temas de su interés, sin que sea necesario inscribirse a una escuela o viajar grandes distancias.
 
-[Link](url) and ![Image](src)
-```
+Los cursos teóricos regulares que toman un semestre en una escuela regular se pueden convertir en cursos de 1 semana o mes de asistencia, exámenes, o revisión y 4 meses de aprendizaje a distancia.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Donaciones
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmr-mex/UniAbierta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contactar al autor. Necesito un equipo tesorero para cuenta bancaria.
