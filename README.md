@@ -27,4 +27,4 @@ Los cursos teóricos regulares que toman un semestre en una escuela regular se p
 
 ### Donaciones
 
-Contactar al autor. Necesito un equipo tesorero para cuenta bancaria.
+Contactar al autor <dmr.mex at gmail>. Necesito un equipo tesorero para cuenta bancaria.
